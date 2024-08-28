@@ -19,7 +19,7 @@ var onpremHyperVHostVMNamePrefix = '${onpremNamePrefix}hyperv-'
 
 var GitHubScriptRepo = 'AndersUP/TechExcel-Securely-migrate-Windows-Server-and-SQL-Server-workloads-to-Azure/'
 var GitHubScriptRepoBranch = 'main'
-var GitHubScriptRepoBranchURL = 'https://github.com/${GitHubScriptRepo}/${GitHubScriptRepoBranch}/Hands-on lab/resources/deployment/'
+var GitHubScriptRepoBranchURL = 'https://raw.githubusercontent.com/${GitHubScriptRepo}/${GitHubScriptRepoBranch}/Hands-on lab/resources/deployment/'
 
 var HyperVHostConfigArchiveFileName = 'create-vm.zip'
 var HyperVHostConfigArchiveScriptName = 'create-vm.ps1'
