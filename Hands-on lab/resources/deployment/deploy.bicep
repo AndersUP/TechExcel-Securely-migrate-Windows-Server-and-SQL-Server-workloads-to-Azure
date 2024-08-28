@@ -17,7 +17,7 @@ var sqlmiStorageName = '${resourceNameBase}sqlmistorage'
 var onpremSQLVMNamePrefix = '${onpremNamePrefix}sql-'
 var onpremHyperVHostVMNamePrefix = '${onpremNamePrefix}hyperv-'
 
-var GitHubScriptRepo = 'AndersUP/TechExcel-Securely-migrate-Windows-Server-and-SQL-Server-workloads-to-Azure/raw/'
+var GitHubScriptRepo = 'AndersUP/TechExcel-Securely-migrate-Windows-Server-and-SQL-Server-workloads-to-Azure/'
 var GitHubScriptRepoBranch = 'main'
 var GitHubScriptRepoBranchURL = 'https://github.com/${GitHubScriptRepo}/${GitHubScriptRepoBranch}/Hands-on lab/resources/deployment/'
 
